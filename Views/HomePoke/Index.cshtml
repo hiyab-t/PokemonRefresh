@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Pokemon Refresh";
+}
+@model MvcPokemon.Models.PokemonDto
+
+<h2>Pokemon Refresh</h2>
+
+<p>Refresh the page to see different pokemon warriors!</p>
+
+<h5>
+    Your collectable pokemon card is:
+</h5>
+
+<ul>
+    <li>
+        @Model.Name
+    </li>
+
+    <img src="@Model.Front_default">
+
+    <br />
+</ul>
+    <audio controls="controls">
+    <source src="@Model.Latest" type="audio/ogg">
+    </audio>
+    
