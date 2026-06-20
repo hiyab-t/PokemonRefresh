@@ -95,3 +95,4 @@
 /Users/happy/Desktop/full_stack_upskilling/MvcPokemon/obj/Debug/net10.0/MvcPokemon.pdb
 /Users/happy/Desktop/full_stack_upskilling/MvcPokemon/obj/Debug/net10.0/MvcPokemon.genruntimeconfig.cache
 /Users/happy/Desktop/full_stack_upskilling/MvcPokemon/obj/Debug/net10.0/ref/MvcPokemon.dll
+/Users/happy/Desktop/full_stack_upskilling/MvcPokemon/obj/Debug/net10.0/MvcPokemon.sourcelink.json
